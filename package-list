@@ -1,6 +1,12 @@
 $dokka.format:javadoc-v1
 $dokka.linkExtension:html
+$dokka.location:pers.neige.neigeitems.action.impl/TreeAction.TreeActionType///PointingToDeclaration/pers/neige/neigeitems/action/impl/TreeAction.TreeActionType.html
 $dokka.location:pers.neige.neigeitems.annotation/Awake.LifeCycle///PointingToDeclaration/pers/neige/neigeitems/annotation/Awake.LifeCycle.html
+$dokka.location:pers.neige.neigeitems.colonel.argument.command/FunctionArgument.FunctionContainer///PointingToDeclaration/pers/neige/neigeitems/colonel/argument/command/FunctionArgument.FunctionContainer.html
+$dokka.location:pers.neige.neigeitems.colonel.argument.command/ItemArgument.ItemContainer///PointingToDeclaration/pers/neige/neigeitems/colonel/argument/command/ItemArgument.ItemContainer.html
+$dokka.location:pers.neige.neigeitems.colonel.argument.command/ItemPackArgument.ItemPackContainer///PointingToDeclaration/pers/neige/neigeitems/colonel/argument/command/ItemPackArgument.ItemPackContainer.html
+$dokka.location:pers.neige.neigeitems.command.subcommand/Search.SearchType.Companion///PointingToDeclaration/pers/neige/neigeitems/command/subcommand/Search.SearchType.Companion.html
+$dokka.location:pers.neige.neigeitems.command.subcommand/Search.SearchType///PointingToDeclaration/pers/neige/neigeitems/command/subcommand/Search.SearchType.html
 $dokka.location:pers.neige.neigeitems.event/ItemUpdateEvent.PostGenerate///PointingToDeclaration/pers/neige/neigeitems/event/ItemUpdateEvent.PostGenerate.html
 $dokka.location:pers.neige.neigeitems.event/ItemUpdateEvent.PreGenerate///PointingToDeclaration/pers/neige/neigeitems/event/ItemUpdateEvent.PreGenerate.html
 $dokka.location:pers.neige.neigeitems.event/MythicDropEvent.ConfigLoaded///PointingToDeclaration/pers/neige/neigeitems/event/MythicDropEvent.ConfigLoaded.html
@@ -10,37 +16,51 @@ $dokka.location:pers.neige.neigeitems.event/PluginReloadEvent.Pre///PointingToDe
 $dokka.location:pers.neige.neigeitems.event/PluginReloadEvent.Type///PointingToDeclaration/pers/neige/neigeitems/event/PluginReloadEvent.Type.html
 $dokka.location:pers.neige.neigeitems.item/ItemDurability.DamageResult///PointingToDeclaration/pers/neige/neigeitems/item/ItemDurability.DamageResult.html
 $dokka.location:pers.neige.neigeitems.item/ItemPack.ItemInfo///PointingToDeclaration/pers/neige/neigeitems/item/ItemPack.ItemInfo.html
+$dokka.location:pers.neige.neigeitems.item/ItemPlaceholder.ParseResult///PointingToDeclaration/pers/neige/neigeitems/item/ItemPlaceholder.ParseResult.html
 $dokka.location:pers.neige.neigeitems.lang/LocaleI18n.TranslationProvider///PointingToDeclaration/pers/neige/neigeitems/lang/LocaleI18n.TranslationProvider.html
+$dokka.location:pers.neige.neigeitems.libs.bot.inker.bukkit.nbt.neigeitems.utils/EntityUtils.FishHookState///PointingToDeclaration/pers/neige/neigeitems/libs/bot/inker/bukkit/nbt/neigeitems/utils/EntityUtils.FishHookState.html
+$dokka.location:pers.neige.neigeitems.libs.bot.inker.bukkit.nbt/Nbt.Unsafe///PointingToDeclaration/pers/neige/neigeitems/libs/bot/inker/bukkit/nbt/Nbt.Unsafe.html
+$dokka.location:pers.neige.neigeitems.libs.bot.inker.bukkit.nbt/NbtCompound.Unsafe///PointingToDeclaration/pers/neige/neigeitems/libs/bot/inker/bukkit/nbt/NbtCompound.Unsafe.html
+$dokka.location:pers.neige.neigeitems.manager/AbstractConfigManager.FileConfig///PointingToDeclaration/pers/neige/neigeitems/manager/AbstractConfigManager.FileConfig.html
+$dokka.location:pers.neige.neigeitems.manager/AbstractConfigManager.RawConfig///PointingToDeclaration/pers/neige/neigeitems/manager/AbstractConfigManager.RawConfig.html
+$dokka.location:pers.neige.neigeitems.manager/ItemManager.SaveResult///PointingToDeclaration/pers/neige/neigeitems/manager/ItemManager.SaveResult.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayInFlying.Pos///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayInFlying.Pos.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayInFlying.PosRot///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayInFlying.PosRot.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayInFlying.Rot///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayInFlying.Rot.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayOutEntity.RefPacketPlayOutEntityLook///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayOutEntity.RefPacketPlayOutEntityLook.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayOutEntity.RefPacketPlayOutRelEntityMove///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayOutEntity.RefPacketPlayOutRelEntityMove.html
 $dokka.location:pers.neige.neigeitems.ref.network/RefPacketPlayOutEntity.RefPacketPlayOutRelEntityMoveLook///PointingToDeclaration/pers/neige/neigeitems/ref/network/RefPacketPlayOutEntity.RefPacketPlayOutRelEntityMoveLook.html
-$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.CallSite.Companion///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.CallSite.Companion.html
-$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.CallSite///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.CallSite.html
-$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.PackedMethod///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.PackedMethod.html
-$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.StaticCallSite///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.StaticCallSite.html
+$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.EasyField///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.EasyField.html
+$dokka.location:pers.neige.neigeitems.scanner/ClassScanner.EasyMethod///PointingToDeclaration/pers/neige/neigeitems/scanner/ClassScanner.EasyMethod.html
+$dokka.location:pers.neige.neigeitems.utils.cooldown/StackableCooldown.Config///PointingToDeclaration/pers/neige/neigeitems/utils/cooldown/StackableCooldown.Config.html
+$dokka.location:pers.neige.neigeitems.utils.cooldown/StackableCooldown.ConsumeResult///PointingToDeclaration/pers/neige/neigeitems/utils/cooldown/StackableCooldown.ConsumeResult.html
+$dokka.location:pers.neige.neigeitems.utils.cooldown/StackableCooldown.Status///PointingToDeclaration/pers/neige/neigeitems/utils/cooldown/StackableCooldown.Status.html
 $dokka.location:pers.neige.neigeitems.utils/SamplingUtils.SamplingResult///PointingToDeclaration/pers/neige/neigeitems/utils/SamplingUtils.SamplingResult.html
 pers.neige.neigeitems
 pers.neige.neigeitems.action
 pers.neige.neigeitems.action.catcher
 pers.neige.neigeitems.action.container
+pers.neige.neigeitems.action.evaluator
+pers.neige.neigeitems.action.evaluator.impl
+pers.neige.neigeitems.action.evaluator.impl.bool
+pers.neige.neigeitems.action.evaluator.impl.dbl
+pers.neige.neigeitems.action.evaluator.impl.i32
+pers.neige.neigeitems.action.evaluator.impl.i64
+pers.neige.neigeitems.action.evaluator.impl.string
 pers.neige.neigeitems.action.handler
 pers.neige.neigeitems.action.impl
 pers.neige.neigeitems.action.result
 pers.neige.neigeitems.annotation
 pers.neige.neigeitems.calculate
+pers.neige.neigeitems.colonel.argument.command
 pers.neige.neigeitems.command
 pers.neige.neigeitems.command.arguments
 pers.neige.neigeitems.command.coordinates
 pers.neige.neigeitems.command.selector
 pers.neige.neigeitems.command.subcommand
-pers.neige.neigeitems.command.subcommand.expansion
 pers.neige.neigeitems.command.subcommand.mm
+pers.neige.neigeitems.config
 pers.neige.neigeitems.event
-pers.neige.neigeitems.hook.easyitem
-pers.neige.neigeitems.hook.easyitem.impl
 pers.neige.neigeitems.hook.itemsadder
 pers.neige.neigeitems.hook.itemsadder.impl
 pers.neige.neigeitems.hook.magicgem
@@ -79,11 +99,14 @@ pers.neige.neigeitems.maven
 pers.neige.neigeitems.network
 pers.neige.neigeitems.papi
 pers.neige.neigeitems.ref
+pers.neige.neigeitems.ref.adventure
 pers.neige.neigeitems.ref.argument
 pers.neige.neigeitems.ref.block
 pers.neige.neigeitems.ref.block.sign
 pers.neige.neigeitems.ref.block.spawner
 pers.neige.neigeitems.ref.chat
+pers.neige.neigeitems.ref.core
+pers.neige.neigeitems.ref.core.component
 pers.neige.neigeitems.ref.damagesource
 pers.neige.neigeitems.ref.enchantment
 pers.neige.neigeitems.ref.entity
@@ -97,7 +120,9 @@ pers.neige.neigeitems.ref.nbt
 pers.neige.neigeitems.ref.network
 pers.neige.neigeitems.ref.network.syncher
 pers.neige.neigeitems.ref.registry
+pers.neige.neigeitems.ref.resources
 pers.neige.neigeitems.ref.scores
+pers.neige.neigeitems.ref.serialization
 pers.neige.neigeitems.ref.server
 pers.neige.neigeitems.ref.server.level
 pers.neige.neigeitems.ref.server.players
@@ -106,6 +131,7 @@ pers.neige.neigeitems.ref.tags
 pers.neige.neigeitems.ref.util
 pers.neige.neigeitems.ref.world
 pers.neige.neigeitems.ref.world.inventory
+pers.neige.neigeitems.ref.world.item.component
 pers.neige.neigeitems.ref.world.level
 pers.neige.neigeitems.ref.world.level.chunk.storage
 pers.neige.neigeitems.scanner
@@ -118,5 +144,10 @@ pers.neige.neigeitems.text
 pers.neige.neigeitems.text.impl
 pers.neige.neigeitems.user
 pers.neige.neigeitems.utils
+pers.neige.neigeitems.utils.cooldown
 pers.neige.neigeitems.utils.function
-
+pers.neige.neigeitems.utils.lazy
+pers.neige.neigeitems.utils.pagination
+pers.neige.neigeitems.utils.pagination.impl
+pers.neige.neigeitems.utils.pagination.impl.circular
+pers.neige.neigeitems.utils.pagination.impl.scroll
