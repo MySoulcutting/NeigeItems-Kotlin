@@ -1,6 +1,7 @@
 $dokka.format:javadoc-v1
 $dokka.linkExtension:html
 $dokka.location:pers.neige.neigeitems.action.impl/TreeAction.TreeActionType///PointingToDeclaration/pers/neige/neigeitems/action/impl/TreeAction.TreeActionType.html
+$dokka.location:pers.neige.neigeitems.action/ActionContext.Builder///PointingToDeclaration/pers/neige/neigeitems/action/ActionContext.Builder.html
 $dokka.location:pers.neige.neigeitems.annotation/Awake.LifeCycle///PointingToDeclaration/pers/neige/neigeitems/annotation/Awake.LifeCycle.html
 $dokka.location:pers.neige.neigeitems.colonel.argument.command/FunctionArgument.FunctionContainer///PointingToDeclaration/pers/neige/neigeitems/colonel/argument/command/FunctionArgument.FunctionContainer.html
 $dokka.location:pers.neige.neigeitems.colonel.argument.command/ItemArgument.ItemContainer///PointingToDeclaration/pers/neige/neigeitems/colonel/argument/command/ItemArgument.ItemContainer.html
@@ -127,6 +128,7 @@ pers.neige.neigeitems.ref.server
 pers.neige.neigeitems.ref.server.level
 pers.neige.neigeitems.ref.server.players
 pers.neige.neigeitems.ref.sounds
+pers.neige.neigeitems.ref.spigot
 pers.neige.neigeitems.ref.tags
 pers.neige.neigeitems.ref.util
 pers.neige.neigeitems.ref.world
